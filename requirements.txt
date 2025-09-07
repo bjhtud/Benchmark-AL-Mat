@@ -1,0 +1,21 @@
+# Core dependencies
+numpy>=1.25.0
+pandas>=1.5.3
+scikit-learn>=1.5.2
+torch>=2.0.1
+tqdm>=4.62.0
+scipy>=1.10.0
+xgboost>=1.7.3
+
+# Bayesian Active Learning
+baal>=2.0.0
+
+# Optional dependencies for visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Development dependencies
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+mypy>=0.910

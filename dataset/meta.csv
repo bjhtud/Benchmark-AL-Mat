@@ -1,0 +1,2 @@
+﻿dataname,path,target_columns,target_to_fit
+uci-concrete,../dataset/uci-concrete/concrete_data.csv,concrete_compressive_strength,concrete_compressive_strength
